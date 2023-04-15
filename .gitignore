@@ -33,6 +33,7 @@ DerivedData/
 ## Playgrounds
 timeline.xctimeline
 playground.xcworkspace
+!default.mode1v3
 
 # Swift Package Manager
 #
